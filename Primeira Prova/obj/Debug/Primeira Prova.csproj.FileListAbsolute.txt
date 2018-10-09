@@ -1,0 +1,7 @@
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\bin\Debug\Primeira Prova.exe.config
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\bin\Debug\Primeira Prova.exe
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\bin\Debug\Primeira Prova.pdb
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\obj\Debug\Primeira Prova.csprojAssemblyReference.cache
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\obj\Debug\Primeira Prova.csproj.CoreCompileInputs.cache
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\obj\Debug\Primeira Prova.exe
+C:\Users\318130076\Desktop\Vinicius_Carvalho_318130076\Primeira Prova\obj\Debug\Primeira Prova.pdb
